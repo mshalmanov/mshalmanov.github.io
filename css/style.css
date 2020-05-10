@@ -247,8 +247,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         transition: 0.2s color;
     }
     .main-nav>li>a {
-        color: #fff;
-        padding: 15px 0px;
+        color: #fff;        
+        font-size: larger;
     }
     #nav.nav-transparent:not(.fixed-nav) .main-nav>li>a {
         color: #fff;
